@@ -216,8 +216,6 @@ Bu proje beğendiysen, yıldız (★) atarak destek verebilirsin! ⭐
 
 <div align="center">
 
-**Yapılık zamanla ❤️ geliştirilmiştir**
-
 Made with ❤️ by KralAthena
 
 </div>
